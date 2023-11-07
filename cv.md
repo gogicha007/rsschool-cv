@@ -13,16 +13,16 @@
 ### > Postman
 
 ## Code sample in Python
-### The following code (link: https://github.com/gogicha007/Numwords_KA/blob/main/Numwords_KA.py) written in Python converts numbers to words in Georgian language, up to billion.
+### The following [code](https://github.com/gogicha007/Numwords_KA/blob/main/Numwords_KA.py) written in Python converts numbers to words in Georgian language, up to billion.
 
 ## Works
-### Random game (JS): https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/random-game/ 
-### Library web page (JS): https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/library/
-### Audio player (JS): https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/audio-player/
-### Image gallery (JS): https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/image-gallery/
+### [Random game (JS)](https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/random-game/) 
+### [Library web page (JS)](https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/library/)
+### [Audio player (JS)](https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/audio-player/)
+### [Image gallery (JS)](https://rolling-scopes-school.github.io/gogicha007-JSFEPRESCHOOL2023Q2/image-gallery/)
 
 ## Education
-### RS School - JS/Front-End
+### RS School - [JS/Front-End](https://rs.school/js/)
 
 ## Languages
 ### English-Fluent, Russian-Fluent, Georgian-Native
